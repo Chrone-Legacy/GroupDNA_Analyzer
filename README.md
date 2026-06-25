@@ -2,7 +2,7 @@
 # GroupDNA  | WhatsApp Chat Analyzer
  "Spotify Wrapped, but for your friend group."
 
-![GroupDNA Terminal Output](Link_To_Your_Screenshot_Here.png) 
+![GroupDNA Terminal Output](image.png) 
 
 ## Overview
 GroupDNA is a custom-built text-mining and behavioral analytics engine that runs entirely in the terminal. It ingests raw, exported WhatsApp chat files and transforms them into a formatted, highly visual UI report. 
